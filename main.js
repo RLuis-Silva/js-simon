@@ -59,4 +59,4 @@ $(document).ready(function(){
         $('#risultatoPunteggio').text('In totale hai indovinato quantità num: ' + score.length);
     }
 
-}); // <--- end doc ready
+}); 
